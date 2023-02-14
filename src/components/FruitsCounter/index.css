@@ -1,0 +1,43 @@
+.fruits-counter-container {
+  display: flex;
+  justify-content: center;
+}
+
+.fruit-image-container {
+  margin: 20px;
+  text-align: center;
+}
+
+.fruit-image {
+  width: 200px;
+}
+.span1 {
+  color: #ffd569;
+}
+
+.heading {
+  font-size: 24px;
+  font-weight: bold;
+  color: #000000;
+  margin: 10px 0;
+}
+
+.eat-button {
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  outline: none;
+}
+
+.eat-button:hover {
+  background-color: #0056b3;
+}
+
+.eat-button:active {
+  background-color: #0056b3;
+}
